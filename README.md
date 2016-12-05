@@ -1,8 +1,6 @@
 RedSql
 ========
 
-RedSql is 
-
 * Plain JDBC preformance 
 
 sql
